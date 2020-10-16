@@ -1,9 +1,10 @@
 
-![irusri's github stats](https://github-readme-stats.vercel.app/api?username=irusri&&show_icons=true&layout=compact&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irusri&layout=compact)
-
-
+<a href="https://github.com/irusri/irusri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=irusri&&show_icons=true&layout=compact&hide=contribs,prs" alt="Chanaka's github stats" />
+</a>
+<a href="https://github.com/irusri/irusri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irusri&layout=compact" />
+</a>
 
 <!--
 - 📖 Libaries & Framework - React, jQuery, Bootstrap, Mongoose
