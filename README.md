@@ -1,7 +1,16 @@
 ### Hi there 👋
 
+![irusri's github stats](https://github-readme-stats.vercel.app/api?username=irusri&&show_icons=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irusri&layout=compact)
+
+
+- 📖 Libaries & Framework - React, jQuery, Bootstrap, Mongoose
+- 💻 Languages - JavaScript, TypeScript, SQL, HTML, PHP, Perl, Python, CSS
+- 🛠 Tools - GitHub, Node.js, NPM, MySQL, MongoDB
+
 <!--
-**irusri/irusri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**phaggio/phaggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
