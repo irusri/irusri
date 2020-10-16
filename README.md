@@ -1,5 +1,5 @@
 
-![irusri's github stats](https://github-readme-stats.vercel.app/api?username=irusri&&show_icons=true&layout=compact)
+![irusri's github stats](https://github-readme-stats.vercel.app/api?username=irusri&&show_icons=true&layout=compact&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irusri&layout=compact)
 
