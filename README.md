@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![irusri's github stats](https://github-readme-stats.vercel.app/api?username=irusri&&show_icons=true&layout=compact)
 
